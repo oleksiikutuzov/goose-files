@@ -1,0 +1,89 @@
+
+{
+    "hands": [
+        {
+            "name":"С бокалом",
+            "file":"hand_goblet.png"            
+        },
+        {
+            "name":"С шариками",
+            "file":"hand_baloon.png"            
+        },
+        {
+            "name":"Поднята",
+            "file":"hand_up.png"            
+        },{
+            "name":"Опущена",
+            "file":"hand_down.png"            
+        }
+    ],
+    
+    "tails": [
+        {
+            "name":"Вверх",
+            "file":"tail_up.png"            
+        },
+        {
+            "name":"Вниз",
+            "file":"tail_down.png"            
+        }
+    ],
+    
+    "heads": [
+        {
+            "name":"Ничего",
+            "file":"head_nothing.png"            
+        },
+        {
+            "name":"Волосы",
+            "file":"head_hair.png"            
+        },
+        {
+            "name":"Новогодняя шапка",
+            "file":"head_ny.png"            
+        },
+        {
+            "name":"Праздничная шапка",
+            "file":"head_party.png"            
+        },
+        {
+            "name":"Козацкая шапка",
+            "file":"head_kozak.png"            
+        }
+    ],
+    
+    "faces": [
+        {
+            "name":"Обычное",
+            "file":"face_normal.png"            
+        },
+        {
+            "name":"Довольное",
+            "file":"face_glad.png"            
+        },
+        {
+            "name":"Расстроенное",
+            "file":"face_disapp.png"            
+        },
+        {
+            "name":"Хмурое",
+            "file":"face_frown.png"            
+        },
+        {
+            "name":"Хитрое",
+            "file":"face_sly.png"            
+        },
+        {
+            "name":"Подмигивает",
+            "file":"face_wink.png"            
+        },
+        {
+            "name":"Deal with it",
+            "file":"face_pixel.png"            
+        },
+        {
+            "name":"Козак",
+            "file":"face_kozak.png"            
+        } 
+    ]  
+}
