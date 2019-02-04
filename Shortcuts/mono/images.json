@@ -12,7 +12,8 @@
         {
             "name":"Поднята",
             "file":"hand_up.png"            
-        },{
+        },
+        {
             "name":"Опущена",
             "file":"hand_down.png"            
         }
@@ -37,6 +38,10 @@
         {
             "name":"Волосы",
             "file":"head_hair.png"            
+        },
+        {
+            "name":"Кепка",
+            "file":"head_cap.png"            
         },
         {
             "name":"Новогодняя шапка",
@@ -72,6 +77,10 @@
         {
             "name":"Хитрое",
             "file":"face_sly.png"            
+        },
+        {
+            "name":"Хитрое 2",
+            "file":"face_sly2.png"            
         },
         {
             "name":"Подмигивает",
