@@ -1,6 +1,6 @@
 
 {
-    "hands": [
+    "Передня лапа?": [
         {
             "name":"З бокалом",
             "file":"hand_goblet.png"            
@@ -19,7 +19,7 @@
         }
     ],
     
-    "tails": [
+    "Хвіст?": [
         {
             "name":"Вверх",
             "file":"tail_up.png"            
@@ -30,7 +30,7 @@
         }
     ],
     
-    "heads": [
+    "Що буде на голові?": [
         {
             "name":"Нічого",
             "file":"head_nothing.png"            
@@ -61,7 +61,7 @@
         }
     ],
     
-    "necks": [
+    "Що буде на шиї?": [
         {
             "name":"Кулон",
             "file":"neck_coulomb.png"            
@@ -77,7 +77,7 @@
             
     ],
     
-    "faces": [
+    "Обличчя?": [
         {
             "name":"Звичайне",
             "file":"face_normal.png"            
