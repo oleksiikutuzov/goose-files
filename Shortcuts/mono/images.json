@@ -75,6 +75,10 @@
             "file":"face_boss.png"            
         },
         {
+            "name":"Рєшатєль",
+            "file":"face_reshatel.png"            
+        },
+        {
             "name":"Засмучене",
             "file":"face_disapp.png"            
         },
