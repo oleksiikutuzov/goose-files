@@ -61,6 +61,22 @@
         }
     ],
     
+    "necks": [
+        {
+            "name":"Кулон",
+            "file":"neck_coulomb.png"            
+        },
+        {
+            "name":"Краватка",
+            "file":"neck_tie.png"            
+        },
+        {
+            "name":"Ланцюжок",
+            "file":"neck_chain.png"            
+        }
+            
+    ],
+    
     "faces": [
         {
             "name":"Звичайне",
