@@ -44,6 +44,10 @@
             "file":"head_cap.png"            
         },
         {
+            "name":"Шапка",
+            "file":"head_hat.png"            
+        },
+        {
             "name":"Новорічна шапка",
             "file":"head_ny.png"            
         },
@@ -85,6 +89,10 @@
         {
             "name":"Підморгує",
             "file":"face_wink.png"            
+        },
+        {
+            "name":"Підморгує 2",
+            "file":"face_wink2.png"            
         },
         {
             "name":"Deal with it",
