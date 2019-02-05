@@ -2,15 +2,15 @@
 {
     "hands": [
         {
-            "name":"С бокалом",
+            "name":"З бокалом",
             "file":"hand_goblet.png"            
         },
         {
-            "name":"С шариками",
+            "name":"З кульками",
             "file":"hand_baloon.png"            
         },
         {
-            "name":"Поднята",
+            "name":"Піднята",
             "file":"hand_up.png"            
         },
         {
@@ -32,11 +32,11 @@
     
     "heads": [
         {
-            "name":"Ничего",
+            "name":"Нічого",
             "file":"head_nothing.png"            
         },
         {
-            "name":"Волосы",
+            "name":"Волосся",
             "file":"head_hair.png"            
         },
         {
@@ -44,46 +44,46 @@
             "file":"head_cap.png"            
         },
         {
-            "name":"Новогодняя шапка",
+            "name":"Новорічна шапка",
             "file":"head_ny.png"            
         },
         {
-            "name":"Праздничная шапка",
+            "name":"Святкова шапка",
             "file":"head_party.png"            
         },
         {
-            "name":"Козацкая шапка",
+            "name":"Козацька шапка",
             "file":"head_kozak.png"            
         }
     ],
     
     "faces": [
         {
-            "name":"Обычное",
+            "name":"Звичайне",
             "file":"face_normal.png"            
         },
         {
-            "name":"Довольное",
+            "name":"Задоволене",
             "file":"face_glad.png"            
         },
         {
-            "name":"Расстроенное",
+            "name":"Засмучене",
             "file":"face_disapp.png"            
         },
         {
-            "name":"Хмурое",
+            "name":"Похмуре",
             "file":"face_frown.png"            
         },
         {
-            "name":"Хитрое",
+            "name":"Хитре",
             "file":"face_sly.png"            
         },
         {
-            "name":"Хитрое 2",
+            "name":"Хитре 2",
             "file":"face_sly2.png"            
         },
         {
-            "name":"Подмигивает",
+            "name":"Підморгує",
             "file":"face_wink.png"            
         },
         {
