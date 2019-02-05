@@ -71,6 +71,10 @@
             "file":"face_glad.png"            
         },
         {
+            "name":"Босс",
+            "file":"face_boss.png"            
+        },
+        {
             "name":"Засмучене",
             "file":"face_disapp.png"            
         },
