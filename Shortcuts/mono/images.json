@@ -10,6 +10,10 @@
             "file":"hand_baloon.png"            
         },
         {
+            "name":"З чарівною паличкою",
+            "file":"hand_wand.png"            
+        },
+        {
             "name":"Піднята",
             "file":"hand_up.png"            
         },
@@ -52,7 +56,11 @@
             "file":"head_ny.png"            
         },
         {
-            "name":"Святкова шапка",
+            "name":"Синій конус",
+            "file":"head_magick.png"            
+        },
+        {
+            "name":"Святковий конус",
             "file":"head_party.png"            
         },
         {
@@ -62,6 +70,10 @@
     ],
     
     "Що буде на шиї": [
+        {
+            "name":"Нічого",
+            "file":"blank.png"            
+        },
         {
             "name":"Кулон",
             "file":"neck_coulomb.png"            
@@ -97,6 +109,10 @@
         {
             "name":"Засмучене",
             "file":"face_disapp.png"            
+        },
+        {
+            "name":"Не задоволене",
+            "file":"face_dissat.png"            
         },
         {
             "name":"Похмуре",
