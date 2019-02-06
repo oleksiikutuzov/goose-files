@@ -14,6 +14,10 @@
             "file":"hand_wand.png"            
         },
         {
+            "name":"З телефоном",
+            "file":"hand_phone.png"            
+        },
+        {
             "name":"Піднята",
             "file":"hand_up.png"            
         },
