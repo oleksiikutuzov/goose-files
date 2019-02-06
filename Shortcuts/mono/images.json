@@ -28,6 +28,10 @@
         {
             "name":"Опущена",
             "file":"hand_down.png"            
+        },
+         {
+            "name":"Гуськіт",
+            "file":"hand_goosecat.png"            
         }
     ],
     
@@ -97,6 +101,10 @@
         {
             "name":"Ланцюжок",
             "file":"neck_chain.png"            
+        },
+        {
+            "name":"Гуськіт",
+            "file":"neck_goosecat.png"            
         }
             
     ],
@@ -153,6 +161,10 @@
         {
             "name":"Козак",
             "file":"face_kozak.png"            
+        },
+        {
+            "name":"Гуськіт",
+            "file":"face_goosecat.png"            
         } 
     ]  
 }
