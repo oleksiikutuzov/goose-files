@@ -21,6 +21,10 @@
             "name":"Піднята",
             "file":"hand_up.png"            
         },
+         {
+            "name":"Піднята тьомна рукавичка",
+            "file":"hand_darth.png"            
+        },
         {
             "name":"Опущена",
             "file":"hand_down.png"            
@@ -54,6 +58,10 @@
         {
             "name":"Шапка",
             "file":"head_hat.png"            
+        },
+        {
+            "name":"Шолом тьомної сторони",
+            "file":"head_darth.png"            
         },
         {
             "name":"Новорічна шапка",
