@@ -22,6 +22,10 @@
             "file":"hand_iphone.png"            
         },
         {
+            "name":"Картка mono",
+            "file":"hand_monocard.png"            
+        },
+        {
             "name":"Піднята",
             "file":"hand_up.png"            
         },
@@ -58,6 +62,10 @@
         {
             "name":"Волосся",
             "file":"head_hair.png"            
+        },
+        {
+            "name":"Волосся 2",
+            "file":"head_hair2.png"            
         },
         {
             "name":"Кепка",
@@ -141,6 +149,10 @@
         {
             "name":"Похмуре",
             "file":"face_frown.png"            
+        },
+        {
+            "name":"Розлючене",
+            "file":"face_angry.png"            
         },
         {
             "name":"Хитре",
