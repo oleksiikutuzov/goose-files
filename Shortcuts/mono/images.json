@@ -18,6 +18,10 @@
             "file":"hand_phone.png"            
         },
         {
+            "name":"Apple Pay",
+            "file":"hand_iphone.png"            
+        },
+        {
             "name":"Піднята",
             "file":"hand_up.png"            
         },
