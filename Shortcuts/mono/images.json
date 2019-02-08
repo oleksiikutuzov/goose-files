@@ -76,6 +76,10 @@
             "file":"head_cap.png"            
         },
         {
+            "name":"Кепка 2",
+            "file":"head_cap2.png"            
+        },
+        {
             "name":"Шапка",
             "file":"head_hat.png"            
         },
@@ -141,6 +145,10 @@
         {
             "name":"Босс",
             "file":"face_boss.png"            
+        },
+         {
+            "name":"Окуляри $$",
+            "file":"face_dollar.png"            
         },
         {
             "name":"Рєшатєль",
