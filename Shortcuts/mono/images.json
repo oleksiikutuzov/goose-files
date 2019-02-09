@@ -26,6 +26,10 @@
             "file":"hand_monocard.png"            
         },
         {
+            "name":"Картка зрадника",
+            "file":"hand_bknncard.png"            
+        },
+        {
             "name":"Піднята",
             "file":"hand_up.png"            
         },
