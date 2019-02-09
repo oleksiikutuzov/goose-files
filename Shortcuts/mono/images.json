@@ -142,6 +142,10 @@
             "name":"Задоволене",
             "file":"face_glad.png"            
         },
+         {
+            "name":"Хтиве",
+            "file":"face_lewd.png"            
+        },
         {
             "name":"Босс",
             "file":"face_boss.png"            
