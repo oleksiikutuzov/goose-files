@@ -127,16 +127,16 @@
             "file":"neck_coulomb.png"            
         },
         {
+            "name":"Кулон elTuba",
+            "file":"neck_goosecat.png"            
+        },
+        {
             "name":"Краватка",
             "file":"neck_tie.png"            
         },
         {
             "name":"Ланцюжок",
             "file":"neck_chain.png"            
-        },
-        {
-            "name":"Кулон elTuba",
-            "file":"neck_goosecat.png"            
         }
             
     ],
