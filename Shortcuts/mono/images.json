@@ -2,24 +2,28 @@
 {
     "Передня лапа": [
         {
-            "name":"З бокалом",
+            "name":"Бокал",
             "file":"hand_goblet.png"            
         },
         {
-            "name":"З кульками",
+            "name":"Кульки",
             "file":"hand_baloon.png"            
         },
         {
-            "name":"З чарівною паличкою",
+            "name":"Чарівна паличка",
             "file":"hand_wand.png"            
         },
         {
-            "name":"З телефоном",
+            "name":"Телефон",
             "file":"hand_phone.png"            
         },
         {
             "name":"З квітами",
             "file":"hand_flowers.png"            
+        },
+        {
+            "name":"Текіла Залізна",
+            "file":"hand_tequila.png"            
         },
         {
             "name":"iPhone",
@@ -42,7 +46,7 @@
             "file":"hand_up.png"            
         },
         {
-            "name":"З киркою",
+            "name":"Кирка",
             "file":"hand_pick.png"            
         },
          {
@@ -90,6 +94,10 @@
         {
             "name":"Волосся Дональда",
             "file":"head_trump.png"            
+        },
+        {
+            "name":"Сомбреро",
+            "file":"head_sombrero.png"            
         },
         {
             "name":"Кепка",
