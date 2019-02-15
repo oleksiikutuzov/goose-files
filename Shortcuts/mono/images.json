@@ -30,6 +30,10 @@
             "file":"hand_monocard.png"            
         },
         {
+            "name":"Картка koto",
+            "file":"hand_kotocard.png"            
+        },
+        {
             "name":"Картка зрадника",
             "file":"hand_bknncard.png"            
         },
