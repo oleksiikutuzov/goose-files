@@ -1,0 +1,234 @@
+
+{
+    "Передня лапа": [
+        {
+            "name":"Бокал",
+            "file":"hand_goblet.png"            
+        },
+        {
+            "name":"Кульки",
+            "file":"hand_baloon.png"            
+        },
+        {
+            "name":"Чарівна паличка",
+            "file":"hand_wand.png"            
+        },
+        {
+            "name":"Телефон",
+            "file":"hand_phone.png"            
+        },
+        {
+            "name":"З квітами",
+            "file":"hand_flowers.png"            
+        },
+        {
+            "name":"Текіла Залізна",
+            "file":"hand_tequila.png"            
+        },
+        {
+            "name":"iPhone",
+            "file":"hand_iphone.png"            
+        },
+        {
+            "name":"Картка mono",
+            "file":"hand_monocard.png"            
+        },
+        {
+            "name":"Картка koto",
+            "file":"hand_kotocard.png"            
+        },
+        {
+            "name":"Картка зрадника",
+            "file":"hand_bknncard.png"            
+        },
+        {
+            "name":"Піднята",
+            "file":"hand_up.png"            
+        },
+        {
+            "name":"Кирка",
+            "file":"hand_pick.png"            
+        },
+         {
+            "name":"Піднята тьомна рукавичка",
+            "file":"hand_darth.png"            
+        },
+        {
+            "name":"Опущена",
+            "file":"hand_down.png"            
+        },
+         {
+            "name":"Гуськіт",
+            "file":"hand_goosecat.png"            
+        }
+    ],
+    
+    "Хвіст": [
+        {
+            "name":"Вверх зліва",
+            "file":"tail_up.png"            
+        },
+        {
+            "name":"Вниз зліва",
+            "file":"tail_down.png"            
+        },
+        {
+            "name":"Вниз справа",
+            "file":"tail_rdown.png"            
+        }
+    ],
+    
+    "Що буде на голові": [
+        {
+            "name":"Нічого",
+            "file":"head_nothing.png"            
+        },
+        {
+            "name":"Волосся",
+            "file":"head_hair.png"            
+        },
+        {
+            "name":"Волосся 2",
+            "file":"head_hair2.png"            
+        },
+        {
+            "name":"Волосся Дональда",
+            "file":"head_trump.png"            
+        },
+        {
+            "name":"Сомбреро",
+            "file":"head_sombrero.png"            
+        },
+        {
+            "name":"Кепка",
+            "file":"head_cap.png"            
+        },
+        {
+            "name":"Кепка 2",
+            "file":"head_cap2.png"            
+        },
+        {
+            "name":"Шапка",
+            "file":"head_hat.png"            
+        },
+        {
+            "name":"Каска",
+            "file":"head_helmet.png"            
+        },
+        {
+            "name":"Шолом тьомної сторони",
+            "file":"head_darth.png"            
+        },
+        {
+            "name":"Новорічна шапка",
+            "file":"head_ny.png"            
+        },
+        {
+            "name":"Синій конус",
+            "file":"head_magick.png"            
+        },
+        {
+            "name":"Святковий конус",
+            "file":"head_party.png"            
+        },
+        {
+            "name":"Козацька шапка",
+            "file":"head_kozak.png"            
+        }
+    ],
+    
+    "Що буде на шиї": [
+        {
+            "name":"Нічого",
+            "file":"blank.png"            
+        },
+        {
+            "name":"Кулон",
+            "file":"neck_coulomb.png"            
+        },
+        {
+            "name":"Кулон elTuba",
+            "file":"neck_goosecat.png"            
+        },
+        {
+            "name":"Краватка",
+            "file":"neck_tie.png"            
+        },
+        {
+            "name":"Ланцюжок",
+            "file":"neck_chain.png"            
+        }
+            
+    ],
+    
+    "Обличчя": [
+        {
+            "name":"Звичайне",
+            "file":"face_normal.png"            
+        },
+        {
+            "name":"Задоволене",
+            "file":"face_glad.png"            
+        },
+         {
+            "name":"Хтиве",
+            "file":"face_lewd.png"            
+        },
+        {
+            "name":"Босс",
+            "file":"face_boss.png"            
+        },
+         {
+            "name":"Окуляри $$",
+            "file":"face_dollar.png"            
+        },
+        {
+            "name":"Рєшатєль",
+            "file":"face_reshatel.png"            
+        },
+        {
+            "name":"Засмучене",
+            "file":"face_disapp.png"            
+        },
+        {
+            "name":"Не задоволене",
+            "file":"face_dissat.png"            
+        },
+        {
+            "name":"Похмуре",
+            "file":"face_frown.png"            
+        },
+        {
+            "name":"Розлючене",
+            "file":"face_angry.png"            
+        },
+        {
+            "name":"Хитре",
+            "file":"face_sly.png"            
+        },
+        {
+            "name":"Хитре 2",
+            "file":"face_sly2.png"            
+        },
+        {
+            "name":"Підморгує",
+            "file":"face_wink.png"            
+        },
+        {
+            "name":"Підморгує 2",
+            "file":"face_wink2.png"            
+        },
+        {
+            "name":"Deal with it",
+            "file":"face_pixel.png"            
+        },
+        {
+            "name":"Козак",
+            "file":"face_kozak.png"            
+        },
+        {
+            "name":"Гуськіт",
+            "file":"face_goosecat.png"            
+        } 
+    ]  
+}
