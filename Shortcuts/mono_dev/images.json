@@ -155,6 +155,10 @@
             "file":"neck_tie.png"            
         },
         {
+            "name":"Краватка-метелик",
+            "file":"neck_btrfltie.png"            
+        },
+        {
             "name":"Ланцюжок",
             "file":"neck_chain.png"            
         }
