@@ -108,6 +108,10 @@
             "file":"head_cap2.png"            
         },
         {
+            "name":"Чортові ріжки",
+            "file":"head_horns.png"            
+        },
+        {
             "name":"Шапка",
             "file":"head_hat.png"            
         },
@@ -153,6 +157,10 @@
         {
             "name":"Краватка",
             "file":"neck_tie.png"            
+        },
+        {
+            "name":"Краватка-метелик",
+            "file":"neck_btrfltie.png"            
         },
         {
             "name":"Ланцюжок",
