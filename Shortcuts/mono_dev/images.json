@@ -30,6 +30,10 @@
             "file":"hand_nasa.png"            
         },
         {
+            "name":"Меч",
+            "file":"hand_sword.png"            
+        },
+        {
             "name":"iPhone",
             "file":"hand_iphone.png"            
         },
@@ -94,6 +98,10 @@
         {
             "name":"Волосся 2",
             "file":"head_hair2.png"            
+        },
+        {
+            "name":"Волосся Тиріона",
+            "file":"head_hair3.png"            
         },
         {
             "name":"Волосся Дональда",
