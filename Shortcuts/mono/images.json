@@ -26,6 +26,10 @@
             "file":"hand_tequila.png"            
         },
         {
+            "name":"Космічний рюкзак",
+            "file":"hand_nasa.png"            
+        },
+        {
             "name":"iPhone",
             "file":"hand_iphone.png"            
         },
@@ -122,6 +126,10 @@
         {
             "name":"Шапка",
             "file":"head_hat.png"            
+        },
+        {
+            "name":"Каска",
+            "file":"head_helmet.png"            
         },
         {
             "name":"Каска",
