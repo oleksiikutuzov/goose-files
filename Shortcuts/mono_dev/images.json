@@ -14,6 +14,10 @@
             "file":"hand_wand.png"            
         },
         {
+            "name":"Трилисник конюшини",
+            "file":"hand_patrick.png"            
+        },
+        {
             "name":"Телефон",
             "file":"hand_phone.png"            
         },
@@ -126,6 +130,10 @@
         {
             "name":"Шапка",
             "file":"head_hat.png"            
+        },
+        {
+            "name":"Шапка св. Патріка",
+            "file":"head_patrick.png"            
         },
         {
             "name":"Каска",
