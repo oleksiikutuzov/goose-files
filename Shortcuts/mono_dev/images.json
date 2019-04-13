@@ -22,12 +22,16 @@
             "file":"hand_phone.png"            
         },
         {
-            "name":"З квітами",
+            "name":"Квіти",
             "file":"hand_flowers.png"            
         },
         {
             "name":"Текіла Залізна",
             "file":"hand_tequila.png"            
+        },
+        {
+            "name":"Коктейль",
+            "file":"hand_cocktail.png"            
         },
         {
             "name":"Космічний рюкзак",
