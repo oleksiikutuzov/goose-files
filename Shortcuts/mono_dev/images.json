@@ -26,6 +26,10 @@
             "file":"hand_flowers.png"            
         },
         {
+            "name":"Гітара",
+            "file":"hand_guitar.png"            
+        },
+        {
             "name":"Текіла Залізна",
             "file":"hand_tequila.png"            
         },
@@ -114,6 +118,14 @@
         {
             "name":"Волосся Дональда",
             "file":"head_trump.png"            
+        },
+        {
+            "name":"Рокерська зачіска",
+            "file":"head_rock.png"            
+        },
+        {
+            "name":"Панамка",
+            "file":"head_panama.png"            
         },
         {
             "name":"Сомбреро",
@@ -229,6 +241,10 @@
         {
             "name":"Червоні окуляри",
             "file":"face_rogalsky.png"            
+        },
+        {
+            "name":"Сонцезахисні окуляри",
+            "file":"face_orglass.png"            
         },
         {
             "name":"Рєшатєль",
