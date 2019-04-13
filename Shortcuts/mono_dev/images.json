@@ -116,12 +116,20 @@
             "file":"head_sombrero.png"            
         },
         {
+            "name":"З ніг на голову",
+            "file":"head_sokol.png"            
+        },
+        {
             "name":"Кепка",
             "file":"head_cap.png"            
         },
         {
             "name":"Кепка 2",
             "file":"head_cap2.png"            
+        },
+        {
+            "name":"Кепка Golden State",
+            "file":"head_rogalsky.png"            
         },
         {
             "name":"Чортові ріжки",
@@ -210,9 +218,13 @@
             "name":"Босс",
             "file":"face_boss.png"            
         },
-         {
+        {
             "name":"Окуляри $$",
             "file":"face_dollar.png"            
+        },
+        {
+            "name":"Червоні окуляри",
+            "file":"face_rogalsky.png"            
         },
         {
             "name":"Рєшатєль",
