@@ -22,24 +22,32 @@
             "file":"hand_phone.png"            
         },
         {
-            "name":"З квітами",
+            "name":"Квіти",
             "file":"hand_flowers.png"            
+        },
+        {
+            "name":"Гітара 🆕",
+            "file":"hand_guitar.png"            
         },
         {
             "name":"Текіла Залізна",
             "file":"hand_tequila.png"            
         },
         {
+            "name":"Коктейль 🆕",
+            "file":"hand_cocktail.png"            
+        },
+        {
             "name":"Космічний рюкзак",
             "file":"hand_nasa.png"            
         },
         {
-            "name":"iPhone",
-            "file":"hand_iphone.png"            
-        },
-        {
             "name":"Меч",
             "file":"hand_sword.png"            
+        },
+        {
+            "name":"iPhone",
+            "file":"hand_iphone.png"            
         },
         {
             "name":"Картка mono",
@@ -112,8 +120,20 @@
             "file":"head_trump.png"            
         },
         {
+            "name":"Рокерська зачіска 🆕",
+            "file":"head_rock.png"            
+        },
+        {
+            "name":"Панамка 🆕",
+            "file":"head_panama.png"            
+        },
+        {
             "name":"Сомбреро",
             "file":"head_sombrero.png"            
+        },
+        {
+            "name":"З ніг на голову 🆕",
+            "file":"head_sokol.png"            
         },
         {
             "name":"Кепка",
@@ -122,6 +142,10 @@
         {
             "name":"Кепка 2",
             "file":"head_cap2.png"            
+        },
+        {
+            "name":"Кепка Golden State 🆕",
+            "file":"head_rogalsky.png"            
         },
         {
             "name":"Чортові ріжки",
@@ -210,9 +234,17 @@
             "name":"Босс",
             "file":"face_boss.png"            
         },
-         {
+        {
             "name":"Окуляри $$",
             "file":"face_dollar.png"            
+        },
+        {
+            "name":"Червоні окуляри 🆕",
+            "file":"face_rogalsky.png"            
+        },
+        {
+            "name":"Сонцезахисні окуляри 🆕",
+            "file":"face_orglass.png"            
         },
         {
             "name":"Рєшатєль",
