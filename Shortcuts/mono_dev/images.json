@@ -22,11 +22,15 @@
             "file":"hand_phone.png"            
         },
         {
+            "name":"Рукавичка Таноса 🆕",
+            "file":"hand_tanos.png"            
+        },
+        {
             "name":"Квіти",
             "file":"hand_flowers.png"            
         },
         {
-            "name":"Гітара 🆕",
+            "name":"Гітара",
             "file":"hand_guitar.png"            
         },
         {
@@ -34,7 +38,7 @@
             "file":"hand_tequila.png"            
         },
         {
-            "name":"Коктейль 🆕",
+            "name":"Коктейль",
             "file":"hand_cocktail.png"            
         },
         {
@@ -120,19 +124,23 @@
             "file":"head_trump.png"            
         },
         {
-            "name":"Рокерська зачіска 🆕",
+            "name":"Рокерська зачіска",
             "file":"head_rock.png"            
         },
         {
-            "name":"Панамка 🆕",
+            "name":"Панамка",
             "file":"head_panama.png"            
+        },
+        {
+            "name":"Корона 🆕",
+            "file":"head_crown.png"            
         },
         {
             "name":"Сомбреро",
             "file":"head_sombrero.png"            
         },
         {
-            "name":"З ніг на голову 🆕",
+            "name":"З ніг на голову",
             "file":"head_sokol.png"            
         },
         {
@@ -144,7 +152,7 @@
             "file":"head_cap2.png"            
         },
         {
-            "name":"Кепка Golden State 🆕",
+            "name":"Кепка Golden State",
             "file":"head_rogalsky.png"            
         },
         {
@@ -239,11 +247,11 @@
             "file":"face_dollar.png"            
         },
         {
-            "name":"Червоні окуляри 🆕",
+            "name":"Червоні окуляри",
             "file":"face_rogalsky.png"            
         },
         {
-            "name":"Сонцезахисні окуляри 🆕",
+            "name":"Сонцезахисні окуляри",
             "file":"face_orglass.png"            
         },
         {
