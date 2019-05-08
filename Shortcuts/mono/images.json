@@ -22,8 +22,12 @@
             "file":"hand_phone.png"            
         },
         {
-            "name":"Рукавичка Таноса 🆕",
+            "name":"Рукавичка Таноса",
             "file":"hand_tanos.png"            
+        },
+        {
+            "name":"Мак 🆕",
+            "file":"hand_mak.png"            
         },
         {
             "name":"Квіти",
@@ -132,7 +136,7 @@
             "file":"head_panama.png"            
         },
         {
-            "name":"Корона 🆕",
+            "name":"Корона",
             "file":"head_crown.png"            
         },
         {
