@@ -26,8 +26,12 @@
             "file":"hand_tanos.png"            
         },
         {
-            "name":"Мак 🆕",
+            "name":"Мак",
             "file":"hand_mak.png"            
+        },
+        {
+            "name":"Булава 🆕",
+            "file":"hand_bulava.png"            
         },
         {
             "name":"Квіти",
