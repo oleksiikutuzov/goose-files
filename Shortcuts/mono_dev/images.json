@@ -26,6 +26,14 @@
             "file":"hand_tanos.png"            
         },
         {
+            "name":"Молот 🆕",
+            "file":"hand_hammer.png"            
+        },
+        {
+            "name":"Пиріг 🆕",
+            "file":"hand_cake.png"            
+        },
+        {
             "name":"Булава",
             "file":"hand_bulava.png"            
         },
