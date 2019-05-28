@@ -26,16 +26,24 @@
             "file":"hand_tanos.png"            
         },
         {
-            "name":"Мак",
-            "file":"hand_mak.png"            
+            "name":"Молот 🆕",
+            "file":"hand_hammer.png"            
         },
         {
-            "name":"Булава 🆕",
+            "name":"Пиріг 🆕",
+            "file":"hand_cake.png"            
+        },
+        {
+            "name":"Булава",
             "file":"hand_bulava.png"            
         },
         {
             "name":"Квіти",
             "file":"hand_flowers.png"            
+        },
+        {
+            "name":"Мак",
+            "file":"hand_mak.png"            
         },
         {
             "name":"Гітара",
