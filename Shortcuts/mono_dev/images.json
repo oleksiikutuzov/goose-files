@@ -38,6 +38,10 @@
             "file":"hand_bulava.png"            
         },
         {
+            "name":"Тритій 🆕",
+            "file":"hand_tritium.png"            
+        },
+        {
             "name":"Квіти",
             "file":"hand_flowers.png"            
         },
@@ -182,6 +186,10 @@
         {
             "name":"Шапка св. Патріка",
             "file":"head_patrick.png"            
+        },
+        {
+            "name":"Шапка пілота 🆕",
+            "file":"head_pilot1.png"            
         },
         {
             "name":"Каска",
