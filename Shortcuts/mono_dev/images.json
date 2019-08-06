@@ -152,6 +152,10 @@
             "file":"head_panama.png"            
         },
         {
+            "name":"Панамка турист 🆕",
+            "file":"head_panamka2.png"            
+        },
+        {
             "name":"Корона",
             "file":"head_crown.png"            
         },
@@ -229,6 +233,10 @@
         {
             "name":"Кулон",
             "file":"neck_coulomb.png"            
+        },
+        {
+            "name":"Камера 🆕",
+            "file":"neck_camera.png"            
         },
         {
             "name":"Кулон elTuba",
